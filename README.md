@@ -11,3 +11,5 @@ Estudo na : [Alura](https://www.alura.com.br/)
 
 ![](https://media.tenor.com/zn87xWqSz0kAAAAM/skeleton-bones.gif)
 ![](https://media.tenor.com/OoiJSLtwlukAAAAM/whet-what.gif)
+
+Caso queira entrar em contato esse é meu email: macedo.edna@escola.pr.gov.br
